@@ -72,8 +72,8 @@ The cVAE achieved the best overall classification performance.
 
 ## Authors
 
-* Arthur Sophiatti
-* Giovanni Faedo
+* Arthur Sophiatti [2022115599]
+* Giovanni Faedo [2025267503]
 
 ## Repository Contents
 
